@@ -1,0 +1,11 @@
+Key to results data:
+
+FTR = Full Time Result
+HTP = Home Team Points
+ATP = Away Team Points
+HM = Home Match
+AM = Away Match
+HTGD = Home Team Goal Diff
+ATGD = Away Team Goal Diff
+DiffFormPts = Diff in Points
+DiffLP = Diff in Last Year Position
